@@ -10,10 +10,10 @@ This repo contains various tasks and problems related to using QUnit as a test t
 * [License](#license) 
 
 ## General Information
-The repo represent a CI project developed on a Web App using Jenkins
+The repo contains my solutions to various integation tests tasks using QUnit  
 
 ## Technologies Used
-- Jenkins
+- QUnit, E6 JS
 
 ## Acknowledgements
 - Many thanks to SoftUni
