@@ -1,5 +1,5 @@
-# Continuous Integration Project  
-This repository contains CI on ASP.NET Core MVC app - House Renting System 
+# Integration Testing Using QUnit  
+This repo contains various tasks and problems related to using QUnit as a test tool for integration testing   
 
 ## Table of Contents
 * [General Info](#general-information)
